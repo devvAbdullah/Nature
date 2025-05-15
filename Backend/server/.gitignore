@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+.env
+.env.local
+.env.*.local
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Puppeteer Chromium cache
+.chromium/
+
+# Certificate output (optional if you generate files like PDFs)
+certificates/
+
+# macOS system files
+.DS_Store
+
+# Editor-specific
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+.cache/
+out/
+
+# Optional: ignore generated QR codes (if any)
+*.png
+*.jpg
+*.jpeg
+
+# Local-only files
+*.local
+*.bak
