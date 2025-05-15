@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which of these is a mammal?",
+    "options": ["Frog", "Dolphin", "Shark", "Penguin"],
+    "answer": "Dolphin",
+    "ageGroup": "6-8"
+  },
+  {
+    "question": "What do plants need to make food?",
+    "options": ["Sunlight", "Soil", "Water", "All of the above"],
+    "answer": "All of the above",
+    "ageGroup": "6-8"
+  },
+  {
+    "question": "Which of these birds cannot fly?",
+    "options": ["Eagle", "Ostrich", "Parrot", "Sparrow"],
+    "answer": "Ostrich",
+    "ageGroup": "9-11"
+  },
+  {
+    "question": "Where do polar bears live?",
+    "options": ["South Pole", "North Pole", "Africa", "Asia"],
+    "answer": "North Pole",
+    "ageGroup": "9-11"
+  }
+]
